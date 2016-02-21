@@ -28,3 +28,4 @@
 
 6. The service compiles to a standalone jar with main class **com.sebarber.footballteams.FootballteamsApplication**.  It can also be run from maven using mvn spring-boot:run
 
+7.  I have used Spring Boot and JPA to create this service as it is fairly simple to get it up and running in a short period of time for the functionality required.  Spring also supports security out of the box.  I used Mockito for the test mocking in order to realistically mock scenarios without needing a database.
