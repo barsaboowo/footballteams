@@ -19,9 +19,9 @@ http://localhost:8080/competitions/list - List the competitions available in the
 } 
 
 4.  The new team creation will fail if any of the following conditions are not met: 
-	a.  A team with the same name exists already.
-	b.  The owner email does not correspond to a player in the system.
-	c.  The competition does not exist, or it has already happened.
-	d.  Any of the team emails do not correspond to a player in the system.
+	-  A team with the same name exists already.
+	-  The owner email does not correspond to a player in the system.
+	-  The competition does not exist, or it has already happened.
+	-  Any of the team emails do not correspond to a player in the system.
 	
 5.  See src/main/resources/data.sql for data that has been preloaded into the system.
