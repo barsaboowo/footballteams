@@ -1,8 +1,0 @@
-insert into person(email, first_name, last_name) values('sam.barber@gmail.com', 'Sam', 'Barber')
-insert into person(email, first_name, last_name) values('thierry.henry@gmail.com', 'Thierry', 'Henry')
-insert into person(email, first_name, last_name) values('ryan.giggs@gmail.com', 'Ryan', 'Giggs')
-insert into person(email, first_name, last_name) values('michael.owen@gmail.com', 'Michael', 'Owen')
-insert into person(email, first_name, last_name) values('wayne.rooney@gmail.com', 'Wayne', 'Rooney')
-insert into person(email, first_name, last_name) values('alan.shearer@gmail.com', 'Alan', 'Shearer')
-insert into competition(name, location, date) values('FA Cup 2017', 'Wembley', '2017-01-01')
-insert into competition(name, location, date) values('World Cup 1966', 'Wembley', '1966-07-30')
